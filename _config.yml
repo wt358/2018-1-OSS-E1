@@ -1,8 +1,8 @@
 title: Your Title
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/2018-1-OSS-E1/jekyll2" # the subpath of your site, e.g. /blog
-url: "18-1-skku-oss.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "Your-Link.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
