@@ -3,7 +3,7 @@
 # project's root directory. Please note that the following lines are
 # NECESSARY for Prologue to work correctly:
 #
-# theme: jekyll-theme-prologue-master
+# theme: jekyll-theme-prologue
 # collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
@@ -40,12 +40,12 @@ email: your-email@example.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/2018-1-OSS-E1/jekyll-theme-prologue-master" # the subpath of your site, e.g. /blog
+baseurl: "/2018-1-OSS-E1" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:
+github_url: "https://github.com/18-1-SKKU-OSS/2018-1-OSS-E1"
 googleplus_url:
 instagram_url:
 linkedin_url:
