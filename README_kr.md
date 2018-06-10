@@ -49,5 +49,5 @@ PhantomBot은 다음 소프트웨어를 설치해야 합니다:
 
 ## 라이센스
 
-PhantomBo은 [**GNU General Public License v3 (GPL-3)**](https://www.gnu.org/copyleft/gpl.html)에 따라 사용이 .
+PhantomBo은 [**GNU General Public License v3 (GPL-3)**](https://www.gnu.org/copyleft/gpl.html)에 따라 라이센스가 부여됩니다.
 
